@@ -3,7 +3,7 @@ import { BcVideo } from './assets'
 import styled from 'styled-components'
 import {FaFacebook, FaInstagram} from 'react-icons/fa'
 import {FaXTwitter} from 'react-icons/fa6'
-import Input from './components/input'
+import Input from './components/Input'
 import Button from './components/Button'
 import Icon from './components/Icon'
 

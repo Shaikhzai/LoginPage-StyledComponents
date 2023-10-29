@@ -24,7 +24,7 @@ const App = () => {
 
       <div className="content">
         <MainContainer>
-          <WelcomeText>Welcome</WelcomeText>
+          <WelcomeText>Assignment</WelcomeText>
           <InputContainer>
             <Input type="Email" placeholder="Email"></Input>
             <Input type="password" placeholder="Enter Password"></Input>
